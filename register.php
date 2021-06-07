@@ -18,7 +18,7 @@
     <label>Подтверждение пароля</label>
     <input type = "password" placeholder ='Подтвердите пароль'>
     <button>Зарегистрироваться</button>
-    <p>Если у вас уже есть аккаунт - <A href = "/autoriz.php">авторизируйтесь</a>!</p>
+    <p>Если у вас уже есть аккаунт - <A href = "/autoriz.php">авторизируйтесь</a>!!</p>
 </form>
 </body>
 </html>
